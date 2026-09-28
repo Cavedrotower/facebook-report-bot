@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Report+Bot-1877F2?style=for-the-badge&logo=facebook" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="64" height="64" />
+</p>
+
 **🤖 Facebook Report Bot Free** — automated mass-reporting tool for Facebook. Sends reports to Facebook moderation at scale, fully automated. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
